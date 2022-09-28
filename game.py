@@ -1,6 +1,5 @@
 human_turn = 'rock'
 computer_turn = 'scissors'
-
 if human_turn == computer_turn:
     print('Draw!')
 elif human_turn == 'rock' and computer_turn == 'scissors':
